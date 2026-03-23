@@ -1,4 +1,4 @@
-# Proyecto Final: Cristina Almeida
+# Proyecto Final
 
 Este repositorio contiene todo el material técnico, código fuente y documentación del proyecto. El sistema está organizado en diferentes entornos para facilitar su revisión.
 
@@ -21,7 +21,3 @@ Este repositorio contiene todo el material técnico, código fuente y documentac
 * **Carpeta [MANUALES/](./MANUALES/)**:
     * Manual de Administrador (Gestor de Archivos e Informes).
     * Manual de Usuario (Gestor de Archivos e Informes).
-
----
-**Nombre del Alumno:** Cristina Almeida  
-**Repositorio Oficial de Entrega**
